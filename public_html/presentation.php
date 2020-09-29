@@ -72,8 +72,8 @@
 	</style>
 </head>
 <body>
-	<iframe src="/?master=1" class="l"></iframe>
-	<iframe src="/?slave=1" class="r"></iframe>
+	<iframe src="./?master=1" class="l"></iframe>
+	<iframe src="./?slave=1" class="r"></iframe>
 	<div class="cta">
 		VISIT&nbsp;<span>DXLAB.SL.NSW.GOV.AU/MURUVIEW</span>&nbsp;TO&nbsp;EXPLORE&nbsp;FOR&nbsp;YOURSELF
 	</div>
